@@ -3,6 +3,9 @@
 ## The Dataset
 ### The Movie dataset is a small sample of the classic and widely used IMDB dataset. The dataset consists 15 rows and 16 features. The features include movie title, facebook likes for cast and director, duration, budget, gross, imdb score, release date and number of reviews. 
 
+![image](https://github.com/ShivamZal/Data_Cleaning_Pandas/assets/93888512/c1a25a09-15b4-4279-955f-603e428cbe01)
+
+
 ## Goals
 ### The sample dataset consists of many holes or inaccuracies which can lead to issues with data integrity and utilizations such as mis-information, null values, repetition, incorrect values and unwanted data.
 Therefore, the goal of this coding exercise is to optimize the dataset and removing the errors so that it can be further used for Data Analysis, Visualization and Storage.
